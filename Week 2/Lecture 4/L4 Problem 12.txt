@@ -1,0 +1,15 @@
+1. function, function
+2. string, EXTERMINATE!
+3. string, extermintate!
+4. boolean, False
+5. boolean, True
+6. function, Number one - the larch
+7. string, nUMBER ONE - THE LARCH
+8. int, 0
+9. int, 8
+10. int, 8
+11.	NoneType, error
+12. int, -1
+13	int, 3
+14. string, *xt*rminat*!
+15. string, Number seven - the larch
