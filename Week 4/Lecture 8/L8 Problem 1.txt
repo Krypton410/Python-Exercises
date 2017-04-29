@@ -1,0 +1,5 @@
+1. TypeError
+2. TypeError
+3. No error is raised
+4. ValueError
+5. NameError
