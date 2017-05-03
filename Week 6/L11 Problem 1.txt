@@ -1,0 +1,5 @@
+1. __init__
+2. obj.doSomething()
+3. False
+4. self.number = number
+5. self.streetName = streetName
