@@ -1,0 +1,1 @@
+1. search and newsearch return the same answers provided L is non-empty.
