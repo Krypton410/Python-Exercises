@@ -1,0 +1,18 @@
+1.Spell
+2 Accio, Confundo
+3. 
+	1.Accio
+	2.Summoning Charm Accio
+	3.No description
+	4.Confundus Charm Confundo
+	5.Causes the victim to become confused and befuddled.
+
+
+4. The getDescription method defined within the Confundo class correct
+5. 
+class Accio(Spell):
+    def __init__(self):
+        Spell.__init__(self, 'Accio', 'Summoning Charm')
+
+    def getDescription(self):
+        return 'This charm summons an object to the caster, potentially over a significant distance.'
